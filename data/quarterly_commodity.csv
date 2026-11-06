@@ -1,0 +1,34 @@
+breakdown,category,fatalities,of_which_exploration,hours_millions,fifr_per_million_hours,period,source,page,read_method
+year,2014-15,4,1,,,2014-15,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2015-16,4,0,,,2015-16,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2016-17,1,0,,,2016-17,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2017-18,3,1,,,2017-18,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2018-19,2,0,,,2018-19,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2019-20,2,0,,,2019-20,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2020-21,2,0,,,2020-21,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2021-22,1,0,,,2021-22,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2022-23,3,0,,,2022-23,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+year,2023-24,1,0,,,2023-24,Safety performance in the WA mineral industry 2023-24,4,chart bar heights (integers; total reconciles to 23)
+commodity,Iron ore,5,0,1048.4,0.005,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Gold,9,0,510.3,0.018,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Nickel,1,0,145.1,0.007,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Bauxite and alumina,2,0,135.5,0.015,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,"Tin, tantalum and lithium",0,0,75.7,0.0,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Exploration,2,1,63.8,0.031,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,"Copper, lead and zinc",1,0,40.0,0.025,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Heavy mineral sands,1,0,39.5,0.025,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Construction materials,1,0,15.6,0.064,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Coal,1,0,15.2,0.066,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Salt,0,0,14.2,0.0,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+commodity,Other,0,0,62.3,0.0,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,table
+incident_type,Caught by / between operating machine,5,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Fall from height,4,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Vehicle / mobile rollover,3,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Rockfall,2,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Exposure to environment,2,1,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Struck by object,2,1,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Caught by / between (not machine),1,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Fall getting on / off,1,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Insect or animal bite,1,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Struck by vehicle / mobile,1,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
+incident_type,Vehicle / mobile collision,1,0,,,2014-15 to 2023-24,Safety performance in the WA mineral industry 2023-24,5,chart bar heights (integers; total reconciles to 23)
